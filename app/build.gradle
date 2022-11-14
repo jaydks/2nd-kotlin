@@ -7,9 +7,13 @@ android {
     namespace 'com.example.calculator'
     compileSdk 32
 
+    viewBinding{
+        enabled = true
+    }
+
     defaultConfig {
         applicationId "com.example.calculator"
-        minSdk 21
+        minSdk 23
         targetSdk 32
         versionCode 1
         versionName "1.0"

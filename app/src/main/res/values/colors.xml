@@ -7,4 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="divider">#F3F2F8</color>
+    <color name="backgroundNums">#F9F8F8</color>
+    <color name="green">#639031</color>
+    <color name="lightGreen">#7BB13B</color>
+    <color name="result">#A3A3A3</color>
+    <color name="red">#E80101</color>
+
+
 </resources>

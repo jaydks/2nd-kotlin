@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_btn_margin_start">10dp</dimen>
+    <dimen name="main_margin_default">35dp</dimen>
+    <dimen name="main_margin_nums">30dp</dimen>
+    <dimen name="main_tv_calculate">40sp</dimen>
+    <dimen name="main_nums_height">70dp</dimen>
+    <dimen name="main_nums_margin_end">20dp</dimen>
+    <dimen name="main_nums_margin_vertical">5dp</dimen>
+</resources>
